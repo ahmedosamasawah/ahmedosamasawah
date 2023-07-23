@@ -1,7 +1,5 @@
 # Hello, Dear! 👋
 
-![Profile Banner](https://scontent.fmct2-3.fna.fbcdn.net/v/t39.30808-6/327365098_1528402691004279_6888370117560072113_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=i55o_jvaofcAX-03bcC&_nc_ht=scontent.fmct2-3.fna&oh=00_AfDJhDS9TWqXdRywo-oOecKsXd2_sbZM-lF-2ZqSEpC7rQ&oe=64C29672)
-
 Welcome to my GitHub profile! I'm Ahmed Osama Al-Sawah, and I'm passionate about Software Development. I love to explore new technologies and create exciting projects that have a positive impact on the world.
 
 ## About Me
